@@ -1,1 +1,2 @@
-# Smart-Fun-Run-Team-A-Environmental-and-Safety-Monitoring
+# Smart-Fun-Run-Team A-Component 5:Environmental-and-Safety-Monitoring
+The Environmental and Safety Monitoring System is an IoT and OS-based solution designed to improve safety during fun run events. It monitors temperature and humidity in real time and provides automated alerts when hazardous environmental conditions are detected. This helps organizers and participants reduce the risks of heat stress, dehydration, and heat-related emergencies.
